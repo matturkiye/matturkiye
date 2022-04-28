@@ -77,3 +77,9 @@ html{
 .main .vurgula{
     color: red;
 }
+
+.main h3{
+    margin-top: 30px;
+    font-size: 30;
+    color: cyan;
+}
