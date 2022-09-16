@@ -12,5 +12,8 @@
 # ML(Markup Dilleri)
 ### HTML
 
+# Stil
+### CSS
+
 # Kodlama Dilleri
 ### Javascript
